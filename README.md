@@ -20,8 +20,8 @@ Open to new learning experiences and excited to develop my knowledge and experie
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gauravsingh027/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https:https://github.com/gauravsingh988/gauravsingh988" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="mailto:thakurgauravsingh027@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://github.com/gauravsingh988/gauravsingh988" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="thakurgauravsingh027@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ## 🛠️ Skills
