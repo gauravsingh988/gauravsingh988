@@ -1,14 +1,12 @@
 # Hi there 👋
 
-## 👋 Hi, I am Shiv Kumar Prajapat
+## 👋 Hi, I am Gaurav SIngh
 
-### Software Developer
+### Web Designer | HTML Developer | UI Designer
 
-## I'm a React Developer and Javascript Enthusiast!
 
----
-
-Creative Designing, and Digital Marketing. Currently, Pursuing BCA from Jaipur National University.  
+I'm an  Web Designer & HTML Developer 
+Creative Designing, and Digital Marketing. Currently, 
 A passionate and self-motivated individual, enthusiastically keen to learn and explore.  
 Open to new learning experiences and excited to develop my knowledge and experience.
 
