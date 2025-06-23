@@ -6,7 +6,7 @@
 
 
 I'm an  Web Designer & HTML Developer 
-Creative Designing, and Digital Marketing. Currently, 
+Creative Designing, and Digital Marketing. 
 A passionate and self-motivated individual, enthusiastically keen to learn and explore.  
 Open to new learning experiences and excited to develop my knowledge and experience.
 
