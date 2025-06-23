@@ -1,8 +1,30 @@
-🖐 Hi , I am Gaurav Singh
-Web Designer | HTML Developer | UI Designer
-Coding
+# Hi there 👋
 
-I'm an India based Web Designer & HTML Developer Creative Designing, and Digital marketing. A passionate and self-motivated individual, enthusiastically keen to learn and explore. Open up to new learning experiences and develop my knowledge and experience.
+## 👋 Hi, I am Shiv Kumar Prajapat
+
+### Software Developer
+
+## I'm a React Developer and Javascript Enthusiast!
+
+---
+
+Creative Designing, and Digital Marketing. Currently, Pursuing BCA from Jaipur National University.  
+A passionate and self-motivated individual, enthusiastically keen to learn and explore.  
+Open to new learning experiences and excited to develop my knowledge and experience.
+
+---
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" />
+
+---
+
+## 🚀 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gauravsingh027/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https:https://github.com/gauravsingh988" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="mailto:thakurgauravsingh027@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
 
 ## 🛠️ Skills
 
