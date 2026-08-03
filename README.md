@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I am Gaurav SIngh
 
-### Web Designer | HTML Developer | UI Designer
+### Frontend Developer
 
 
 I'm an  Web Designer & HTML Developer 
